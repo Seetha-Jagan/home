@@ -1,28 +1,11 @@
-.body{
-    height: 1000px;
+body{
+    background-color: lightsalmon;
 }
 
-
-.logos_and_services{
-    height: 155px;
-    background-color: lightpink;
-}
-.logos{
-    width: 400px;
-    height: 155px;
-    background-color: magenta;
-    float: left;
-    margin: 0px 0px 0px 5px;
-}
-.services{
-    width: 600px;
-    height: 125px;
-    background-color: darkolivegreen;
-    float: right;
-    margin: 15px 5px 0px 0px;
-}
-
-
-.content{
-    height: 650px;
+.main{
+    width: 80%;
+    height: 900px;
+    background-color: blueviolet;
+    margin: auto;
+    margin-top: 50px;
 }
